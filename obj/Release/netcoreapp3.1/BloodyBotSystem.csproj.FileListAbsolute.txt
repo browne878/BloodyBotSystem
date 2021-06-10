@@ -1,0 +1,27 @@
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.deps.json
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.csprojAssemblyReference.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.AssemblyInfo.cs
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.deps.json
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.csproj.AssemblyReference.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.AssemblyInfo.cs
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\ControlSystem\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.deps.json
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\bin\Release\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.csproj.AssemblyReference.cache
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.AssemblyInfo.cs
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Release\netcoreapp3.1\BloodyBotSystem.pdb

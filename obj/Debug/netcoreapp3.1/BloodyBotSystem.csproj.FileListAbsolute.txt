@@ -1,0 +1,18 @@
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\bin\Debug\netcoreapp3.1\BloodyBotSystem.deps.json
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\bin\Debug\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\bin\Debug\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.csprojAssemblyReference.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.AssemblyInfo.cs
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\Bot Control Web App\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\bin\Debug\netcoreapp3.1\BloodyBotSystem.deps.json
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\bin\Debug\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\bin\Debug\netcoreapp3.1\BloodyBotSystem.pdb
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.csproj.AssemblyReference.cache
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.AssemblyInfoInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.AssemblyInfo.cs
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.csproj.CoreCompileInputs.cache
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.dll
+C:\Users\drago\Documents\Bloody Server\Bots\BloodyBotSystem\obj\Debug\netcoreapp3.1\BloodyBotSystem.pdb

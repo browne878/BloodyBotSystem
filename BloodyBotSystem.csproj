@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>System to help creating bots for Bloody Discord</Description>
+    <Copyright>Browne</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ArkonSharp" Version="1.2.6" />
+    <PackageReference Include="DSharpPlus" Version="4.1.0-nightly-00876" />
+    <PackageReference Include="DSharpPlus.CommandsNext" Version="4.1.0-nightly-00876" />
+    <PackageReference Include="DSharpPlus.Interactivity" Version="4.1.0-nightly-00876" />
+    <PackageReference Include="IDoEverything.DSharpPlus.SlashCommands" Version="1.4.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.25" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="BotEvents\" />
+  </ItemGroup>
+
+</Project>
