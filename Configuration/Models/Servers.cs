@@ -15,7 +15,7 @@
         /// <summary>
         /// Rcon IP Address
         /// </summary>
-        public string RconIP { get; set; }
+        public string RconIp { get; set; }
 
         /// <summary>
         /// Rcon Password for that server

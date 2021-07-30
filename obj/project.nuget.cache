@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YIhxAsKeGJnAbKq1ZeKgF1iDqXHI8wKamPu9AREQ50YlAgm0QL0qvkshV8MV37hoEvr43pRXSIxuIqIdFJf+Sw==",
+  "dgSpecHash": "Dd+3QJqo0esr7W7tb2boW3LiPetGfqJrvIL3uProb2NZquSyLezr4gSQOS33Snt0WMP+sH5HVLfahcvtSQ6yFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\drago\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj",
+  "projectFilePath": "D:\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drago\\.nuget\\packages\\arkonsharp\\1.2.6\\arkonsharp.1.2.6.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
@@ -12,7 +12,7 @@
     "C:\\Users\\drago\\.nuget\\packages\\dsharpplus.interactivity\\4.1.0-nightly-00876\\dsharpplus.interactivity.4.1.0-nightly-00876.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\emzi0767.common\\2.6.2\\emzi0767.common.2.6.2.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
-    "C:\\Users\\drago\\.nuget\\packages\\idoeverything.dsharpplus.slashcommands\\1.4.0\\idoeverything.dsharpplus.slashcommands.1.4.0.nupkg.sha512",
+    "C:\\Users\\drago\\.nuget\\packages\\idoeverything.dsharpplus.slashcommands\\1.3.0\\idoeverything.dsharpplus.slashcommands.1.3.0.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
     "C:\\Users\\drago\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",

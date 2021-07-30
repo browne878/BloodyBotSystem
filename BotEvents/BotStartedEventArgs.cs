@@ -1,4 +1,4 @@
-﻿namespace BloodyBotSystem.Global_Events
+﻿namespace BloodyBotSystem.BotEvents
 {
     using System;
 

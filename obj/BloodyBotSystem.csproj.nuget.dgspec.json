@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drago\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj": {}
+    "D:\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drago\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj": {
+    "D:\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj",
+        "projectUniqueName": "D:\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj",
         "projectName": "BloodyBotSystem",
-        "projectPath": "C:\\Users\\drago\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj",
+        "projectPath": "D:\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\BloodyBotSystem.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\obj\\",
+        "outputPath": "D:\\Documents\\Bloody Server\\Bots\\BloodyBotSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\drago\\Documents\\Nuget_Repo": {},
+          "D:\\Documents\\Nuget_Repo": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.emzi0767.com/api/v3/index.json": {}
         },
@@ -64,7 +64,7 @@
             },
             "IDoEverything.DSharpPlus.SlashCommands": {
               "target": "Package",
-              "version": "[1.4.0, )"
+              "version": "[1.3.0, )"
             },
             "MySql.Data": {
               "target": "Package",
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

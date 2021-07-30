@@ -1,4 +1,4 @@
-﻿namespace TicketBot.Models
+﻿namespace BloodyBotSystem.Configuration.Models
 {
    public class MySql
     {

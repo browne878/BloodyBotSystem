@@ -1,28 +1,31 @@
 ﻿namespace BloodyBotSystem
 {
     using System;
+    using System.Collections.Generic;
     using System.Threading;
     using System.Threading.Tasks;
+    using BloodyBotSystem.BotEvents;
     using BloodyBotSystem.Configuration.Models;
     using BloodyBotSystem.Configuration.Services;
-    using BloodyBotSystem.Global_Events;
     using DSharpPlus;
     using DSharpPlus.CommandsNext;
+    using DSharpPlus.Interactivity;
+    using DSharpPlus.Interactivity.Extensions;
     using DSharpPlus.SlashCommands;
-
 
     public class BloodyBot
     {
-        public DiscordClient Bot { get; set; }
+        public DiscordShardedClient Bot { get; set; }
 
         private DatabaseManager Database { get; set; }
 
         private FileService FileService { get; set; }
         private ArkCommandManager RconManager { get; set; }
 
-        public Config Config { get; private set; }
+        public Config Config { get; set; }
 
         private SlashCommandsExtension SlashCommandsExtension { get; set; }
+        private IReadOnlyDictionary<int, CommandsNextExtension> Commands;
 
         /// <summary>
         /// Fired when the Bot is Started
@@ -32,45 +35,60 @@
         /// <summary>
         /// Initializes Properties of the Bot
         /// </summary>
-        public void InitialiseBot()
+        public async Task InitialiseBot()
         {
             Database = new DatabaseManager(this);
             FileService = new FileService();
             RconManager = new ArkCommandManager(this);
 
-            this.Bot = new DiscordClient(new DiscordConfiguration()
-            {
-                AutoReconnect = true,
-                Token = Config.DiscordOptions.Token,
-                TokenType = TokenType.Bot
-            });
+            this.Bot = new DiscordShardedClient(new DiscordConfiguration
+                                         {
+                                             Token = Config.DiscordOptions.Token,
+                                             TokenType = TokenType.Bot,
+                                             AutoReconnect = true
+                                         });
         }
 
         /// <summary>
-        /// Enables DSharp Commands Next
+        /// Enables Commands Next for the Bot
         /// </summary>
-        /// <param name="_services"></param>
-        public void UseCommandsNext(IServiceProvider _services)
+        /// <param name="_services">Dependency Injection Container</param>
+        public async Task<CommandsNextConfiguration> UseCommandsNext(IServiceProvider _services)
         {
-            this.Bot.UseCommandsNext(new CommandsNextConfiguration
-            {
-                StringPrefixes = new[] { Config.DiscordOptions.Prefix },
-                EnableDms = true,
-                EnableMentionPrefix = true,
-                Services = _services,
-                EnableDefaultHelp = false,
-                CaseSensitive = false,
-                IgnoreExtraArguments = true
-            });
+            CommandsNextConfiguration cnc = new CommandsNextConfiguration
+                                            {
+                                                StringPrefixes = new[] { Config.DiscordOptions.Prefix },
+                                                EnableDms = true,
+                                                EnableMentionPrefix = true,
+                                                Services = _services,
+                                                EnableDefaultHelp = false,
+                                                CaseSensitive = false,
+                                                IgnoreExtraArguments = true
+                                            };
+
+            await Bot.UseCommandsNextAsync(cnc);
+
+            return cnc;
         }
 
         /// <summary>
-        /// Enables Slash Commands
+        /// Enables Slash Commands For the Bot
         /// </summary>
-        /// <param name="_services"></param>
+        /// <param name="_services">Dependency Injection Container</param>
         public void UseSlashCommands(IServiceProvider _services)
         {
-            SlashCommandsExtension = this.Bot.UseSlashCommands(new SlashCommandsConfiguration { Services = _services });
+            SlashCommandsExtension = Bot.UseSlashCommands(new SlashCommandsConfiguration
+                                                          {
+                                                              Services = _services
+                                                          });
+        }
+
+        public async Task UseInteractivity(TimeSpan _timeout)
+        {
+            await Bot.UseInteractivityAsync(new InteractivityConfiguration
+                                 {
+                                     Timeout = _timeout
+                                 });
         }
 
         /// <summary>
@@ -82,12 +100,11 @@
             Config = FileService.GetConfig(_path);
         }
 
-
         /// <summary>
         /// Registers all the commands
         /// </summary>
         /// <param name="_types">Array of Command Types to be Registered</param>
-        public void InitialiseSlashCommands(Type[] _types)
+        public void InitialiseSlashCommands(IEnumerable<Type> _types)
         {
             foreach (Type type in _types)
             {
@@ -102,12 +119,10 @@
         public async Task ConnectAsync()
         {
             await Bot.ConnectAsync();
-            await Task.Delay(Timeout.Infinite);
 
-            BotStarted?.Invoke(this, new BotStartedEventArgs()
-            {
-                StartedAt = DateTime.Now
-            });
+            BotStarted?.Invoke(this, new BotStartedEventArgs { StartedAt = DateTime.Now });
+
+            await Task.Delay(Timeout.Infinite);
         }
 
         /// <summary>

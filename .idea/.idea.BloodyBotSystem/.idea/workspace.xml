@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b684c228-f3f7-4a03-bb26-a9d0ae167779" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BloodyBotSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BloodyBotSystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BloodyBotSystem/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BloodyBotSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/BloodyBotSystem/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/BloodyBotSystem/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/BloodyBotSystem/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloodyBot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloodyBotSystem.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloodyBotSystem.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloodyBotSystem.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloodyBotSystem.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Models/Config.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Models/DiscordOptions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Models/MySql.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Models/Servers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Services/ArkCommandManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Services/DatabaseManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Services/FileService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Global Events/BotStartedEventArgs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/BloodyBotSystem.1.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/BloodyBotSystem.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/BloodyBotSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/BloodyBotSystem.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/BloodyBotSystem.1.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/BloodyBotSystem.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/BloodyBotSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Release/netcoreapp3.1/BloodyBotSystem.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/BloodyBotSystem.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/BloodyBotSystem.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/BloodyBotSystem.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/BloodyBotSystem.1.0.0.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/BloodyBotSystem.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/TESTLIB.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/TESTLIB.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/TESTLIB.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/TESTLIB.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/BloodyBotSystem.1.0.0.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/netcoreapp3.1/BloodyBotSystem.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/TESTLIB.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/TESTLIB.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/TESTLIB.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Configuration/Models/Config.cs" />
+      <option value="$PROJECT_DIR$/BotEvents/BotStartedEventArgs.cs" />
+      <option value="$PROJECT_DIR$/Configuration/Models/DiscordOptions.cs" />
+      <option value="$PROJECT_DIR$/Configuration/Models/MySql.cs" />
+      <option value="$PROJECT_DIR$/Configuration/Models/Servers.cs" />
+      <option value="$PROJECT_DIR$/Configuration/Services/ArkCommandManager.cs" />
+      <option value="$PROJECT_DIR$/Configuration/Services/DatabaseManager.cs" />
+      <option value="$PROJECT_DIR$/Configuration/Services/FileService.cs" />
+      <option value="$PROJECT_DIR$/BloodyBot.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1tm4ArHT0n05MQdDAXB98COgPhv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b684c228-f3f7-4a03-bb26-a9d0ae167779" name="Default Changelist" comment="" />
+      <created>1623360791444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623360791444</updated>
+      <workItem from="1623360798030" duration="692000" />
+      <workItem from="1623361823780" duration="2816000" />
+      <workItem from="1623367679373" duration="139000" />
+      <workItem from="1623367857923" duration="28000" />
+      <workItem from="1624140479552" duration="608000" />
+      <workItem from="1624141130321" duration="2217000" />
+      <workItem from="1626511049404" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="New Bloody Bot System">
+      <created>1623361312414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623361312414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="New Bloody Bot System" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Bloody Bot System" />
+  </component>
+</project>

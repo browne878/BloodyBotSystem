@@ -1,7 +1,6 @@
 ﻿namespace BloodyBotSystem.Configuration.Models
 {
     using System.Collections.Generic;
-    using TicketBot.Models;
 
     public class Config
     {
